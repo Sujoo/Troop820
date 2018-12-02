@@ -5,10 +5,13 @@ The web server is configured to pull the latest changes from the "master" branch
 
 # Eagle Map
 The Eagle Map (http://www.troop820.net/eaglemap.html) is a google fusion doc.  Update the doc and the website's map will update shortly after.  To request access to edit the doc, contact the Troop 820 Scout Master or Scount Webmaster.
-
 * Fusion doc: https://fusiontables.google.com/DataSource?docid=1u89GSppcXzIStQ8-S8UmoHZjE89Hnkyve2ITCZnf#rows:id=1
 * Guide to google fusion docs: https://support.google.com/fusiontables/?hl=en#topic=1652595
 
-# Git Guides
-* Useful guide to first time git usage: https://guides.github.com/activities/hello-world/
+# General Guides
+## Git
+* Useful guide for first time github usage: https://guides.github.com/activities/hello-world/
 * Useful desktop application: https://desktop.github.com
+
+## Markdown
+* Markdown is used in many files (this readme, github issues, etc), here is a guide to the syntax: https://www.markdownguide.org/basic-syntax
