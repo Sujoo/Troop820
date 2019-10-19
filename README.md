@@ -1,7 +1,7 @@
 # Troop 820 Website
 This is the code repository for website of Troop 820 from Chapel Hill, NC: http://www.troop820.net
 
-The web server is configured to pull the latest changes from the "master" branch every 10 minutes.  Thus any commits made to the master branch should be visible on the website in 10 minutes or less.
+The web server is configured to pull the latest changes from the "master" branch night at midnight.  Thus any commits made to the master branch should be visible on the website the following day.
 
 # Eagle Map
 The Eagle Map (http://www.troop820.net/eaglemap.html) is a google fusion doc.  Update the doc and the website's map will update shortly after.  To request access to edit the doc, contact the Troop 820 Scout Master or Scout Webmaster.
